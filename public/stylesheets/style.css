@@ -1,0 +1,16 @@
+body{
+
+  background-image: url("http://data.hdwallpapers.im/sunset_surf.jpg");
+  background-repeat:no-repeat;
+  background-position: inherit;
+  background-size: cover;
+
+}
+
+label{
+
+  font-size: 20px;
+  color: #9BA0D4;
+}
+
+
